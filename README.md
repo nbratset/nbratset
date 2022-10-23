@@ -9,8 +9,8 @@
 <p>🌱 I’m currently learning Python (with a focus on Bioinformatics) and very basic html (to make this). </p>
 
 <!-- <h4 align="Left"> Random Facts About Me: </h4>
-<p>🦉 My Favorite animal is the Owl. </p>
-<p>🍪 I enjoy baking in my free time and I love sweets.</p> -->
+<p>🦉 My Favorite animal is the Owl. </p> -->
+<p>🍪 I enjoy baking in my free time and I love sweets.</p>
 <p>⌨ My other hobbies incude video games, watching anime, writing, and building keyboards. </p>
 
 <h2 align="center">Languages and Tools</h2>

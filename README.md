@@ -8,9 +8,9 @@
 <p>👀 I’m interested in Bioinformatics and Data Visualization. </p>
 <p>🌱 I’m currently learning Python (with a focus on Bioinformatics) and very basic html (to make this). </p>
 
-<h4 align="Left"> Random Facts About Me: </h4>
+<!-- <h4 align="Left"> Random Facts About Me: </h4>
 <p>🦉 My Favorite animal is the Owl. </p>
-<p>🍪 I enjoy baking in my free time and I love sweets.</p>
+<p>🍪 I enjoy baking in my free time and I love sweets.</p> -->
 <p>⌨ My other hobbies incude video games, watching anime, writing, and building keyboards. </p>
 
 <h2 align="center">Languages and Tools</h2>
@@ -29,7 +29,7 @@
 </p>
 
 <h2 align="center">Connect with me</h2>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/nbratset" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nbratset" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nbratset" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nbratset" height="30" width="40" /></a>
 </p>

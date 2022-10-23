@@ -20,10 +20,13 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+</p>
+<p>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/indesign.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc/icons/indesign.svg" alt="indesign" width="40" height="40"/> </a> 
- </p>
+<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc1/en/genuine/images/AFC/LR_icon.svg" alt="lightroom" width="40" height="40"/> </a> 
+</p>
 
 <h2 align="center">Connect with me</h2>
 <p align="left">

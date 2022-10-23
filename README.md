@@ -27,6 +27,8 @@
 <a href="https://www.adobe.com/products/indesign.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc/icons/indesign.svg" alt="indesign" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc1/en/genuine/images/AFC/LR_icon.svg" alt="lightroom" width="40" height="40"/> </a> 
 </p>
+<p>
+<a href="https://genome.ucsc.edu/"> <img src="https://genome.ucsc.edu/images/ucscHelixLogo.png" alt="ucscgenomebrowser" width="105" height="40">
 
 <h2 align="center">Connect with me</h2>
 <p align="left">

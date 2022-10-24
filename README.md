@@ -2,7 +2,7 @@
   <center>
 <h2 align="center">About Me</h2>
 <img src="https://media.tenor.com/OSnZnnqx4vsAAAAC/anime-hello.gif" align="right" width="173" height="249" />
-<p>👋 Hi, I’m @nbratset! </p>
+<p>👋 Hi, I’m Natalie! </p>
 <p>📚 I graduated from UCSC with a B.S. Biochemistry and Molecular Biology, and a minor in Bioinformatics. </p>
 <p>🧬 I'm currently working at a biotech startup in stealth mode. </p>
 <p>👀 I’m interested in Bioinformatics and Data Visualization. </p>

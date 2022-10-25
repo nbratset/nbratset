@@ -3,15 +3,15 @@
 <h2 align="center">About Me</h2>
 <img src="https://media.tenor.com/OSnZnnqx4vsAAAAC/anime-hello.gif" align="right" width="173" height="249" />
 <p>👋 Hi, I’m Natalie! </p>
-<p>📚 I graduated from UCSC with a B.S. Biochemistry and Molecular Biology, and a minor in Bioinformatics. </p>
+<p>📚 I graduated from UCSC with a B.S. in Biochemistry and Molecular Biology, and a minor in Bioinformatics. </p>
 <p>🧬 I'm currently working at a biotech startup in stealth mode. </p>
 <p>👀 I’m interested in Bioinformatics and Data Visualization. </p>
-<p>🌱 I’m currently learning Python (with a focus on Bioinformatics) and very basic html (to make this). </p>
+<p>🌱 I’m currently learning Python (with a focus on Bioinformatics) and very basic HTML (to make this). </p>
 
 <!-- <h4 align="Left"> Random Facts About Me: </h4>
 <p>🦉 My Favorite animal is the Owl. </p> -->
 <p>🍪 I enjoy baking in my free time and I love sweets.</p>
-<p>⌨ My other hobbies incude video games, watching anime, writing, and building keyboards. </p>
+<p>⌨ My other hobbies include playing video games, watching anime, writing, and building keyboards. </p>
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center"> 

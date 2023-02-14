@@ -4,7 +4,7 @@
 <img src="https://media.tenor.com/OSnZnnqx4vsAAAAC/anime-hello.gif" align="right" width="173" height="249" />
 <p>👋 Hi, I’m Natalie! </p>
 <p>📚 I graduated from UCSC with a B.S. in Biochemistry and Molecular Biology, and a minor in Bioinformatics. </p>
-<p>🧬 I'm currently working at a Biotech Startup in stealth mode 👀. </p>
+<p>🧬 I'm currently working at a Biotech Startup in stealth mode. 👀 </p>
 <p>👀 I’m interested in Bioinformatics and Data Visualization. </p>
 <p>🌱 I’m currently learning Python (with a focus on Bioinformatics) and very basic HTML (to make this). </p>
 

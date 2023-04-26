@@ -26,6 +26,7 @@
 <a href="https://www.snapgene.com/"> <img src="https://cdn.snapgene.com/assets/12.26.3/favicon/android-icon-192x192.png" alt="snapgene" width="40" height="40" /> </a> 
 <a href="https://galaxyproject.org/use/"> <img src="https://galaxyproject.org/images/galaxy-logos/galaxy_project_logo_square.png" alt="galaxy" width="40" height="40" /> </a> 
 <a href="https://genome.ucsc.edu/"> <img src="https://genome.ucsc.edu/images/ucscHelixLogo.png" alt="ucscgenomebrowser" width="105" height="40" /> </a> 
+ <a href="https://www.graphpad.com/features"> <img src="https://cdn.graphpad.com/assets/14.1.14/assets/images/graphpad/prism/logo-prism-white.svg" alt="prism" width="105" height="40" /> </a>
 </p>
 
 <h2 align="center">Connect with me</h2>
